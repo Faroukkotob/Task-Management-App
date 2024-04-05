@@ -11,6 +11,7 @@ of 12 students to put into practice the Agile Development Methodology.
 - AWS Lambda (scripts written in Python)
 - AWS Cognito
 - AWS DynamoDB
+- Firebase host
 
 ## Installation Instructions
 - Change directories in by running ```cd CPS714-Project/task-harbour```
